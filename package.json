@@ -1,0 +1,17 @@
+{
+  "name": "faqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js",
+    "dev": "nodemon --experimental-json-modules index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keyword-extractor": "0.0.21"
+  }
+}
